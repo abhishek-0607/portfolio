@@ -5,7 +5,7 @@ import useWindowDimensions from "../utils/dimensionHelper";
 
 const navItems = [
   {
-    label: "About",
+    label: "About Me",
     route: "/",
   },
   {
