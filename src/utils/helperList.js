@@ -86,4 +86,13 @@ export const projectsList = [
       "Coursera is a global online learning platform that offers anyone, anywhere, access to online courses.",
     stack: ["Javascript", "HTML", "CSS", "Express", "Mongoose", "Node.js"],
   },
+  {
+    label: "Pepperfry Clone",
+    imgSrc: "images/pepperfry.png",
+    src: "https://pepperfrywebsite.herokuapp.com/products/home",
+    githubSrc: "https://github.com/abhishek-0607/pepperfry_clone",
+    description:
+      "pepperfry is a E-commerce website, from where you can buy luxurious furniture for your home and office",
+    stack: ["Javascript", "HTML", "CSS", "Express", "Mongoose", "Node.js"],
+  },
 ];
